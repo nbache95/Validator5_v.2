@@ -1,0 +1,20 @@
+#autorisation de tous les bots sur tout le site sauf sur les fichiers, et dossiers renseigné dans disallow
+User-agent: *
+Disallow: /process.php
+Disallow: /process_inscription.php
+Disallow: /process_connexion.php
+Disallow: /members/
+Disallow: /assets/
+Disallow: /class/
+
+#adsbot-Google ajouté car pas compté dans * sur le test
+User-agent: adsbot-Google
+Disallow: /process.php
+Disallow: /process_inscription.php
+Disallow: /process_connexion.php
+Disallow: /members/
+Disallow: /assets/
+Disallow: /class/
+
+
+Sitemap: https://validator5.alwaysdata.net/sitemap.xml

@@ -1,0 +1,14 @@
+FontAwsome:
+
+page d'accueil icon menu:
+https://fontawesome.com/icons/home?style=solid
+<i class="fas fa-home"></i>
+
+
+connexion icon menu
+https://fontawesome.com/icons/user-check?style=solid
+<i class="fas fa-user-check"></i>
+
+inscription icon menu
+https://fontawesome.com/icons/user-plus?style=solid
+<i class="fas fa-user-plus"></i>
